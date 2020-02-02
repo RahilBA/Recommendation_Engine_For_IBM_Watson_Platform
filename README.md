@@ -15,11 +15,11 @@ To get started in building recommendations, I first find the most popular articl
 
 III. User-User Based Collaborative Filtering
 
-In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users. You will implement this next.
+In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users.
 
 IV. Content Based Recommendations 
 
-I was Using your NLP techniques to find the the amount of content available for each article and improve the recommandations based on each articles' content.
+I was Using NLP techniques to find the the amount of content available for each article and improve the recommandations based on each articles' content.
 
 V. Matrix Factorization
 
